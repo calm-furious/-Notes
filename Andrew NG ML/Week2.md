@@ -7,7 +7,6 @@ h_\theta = \left[
 \theta_1 &
 \cdots &
 \theta_n &
-
 \end{array}
 \right]
 $$
